@@ -4,3 +4,12 @@ Then I made some changes yada yada yada
 
 
 Here is a branch from the master file
+
+Commiting a change 
+
+/***************************************/
+
+
+We'll make some more changes to this and add a couple things
+
+corrected spelling
