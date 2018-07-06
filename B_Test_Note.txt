@@ -13,3 +13,5 @@ Commiting a change
 We'll make some more changes to this and add a couple things
 
 corrected spelling
+
+Adding to branch 2
